@@ -18,7 +18,7 @@ class swingComponents{
 
 		email.setBounds(15,20,50,20);
 		email_t.setBounds(60,20,100,20); 
-	  pass.setBounds(15,50,50,20);
+	        pass.setBounds(15,50,50,20);
 		pwd.setBounds(60,50,100,20);
 		btn.setBounds(25,90,80,20);
 		f.setLayout(null);
